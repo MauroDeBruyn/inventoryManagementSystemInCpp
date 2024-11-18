@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6893afcff70689f87b85.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "inventoryManagementSystem",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "inventoryManagementSystem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-inventoryManagementSystem-Debug-555b2a00a7a865e24315.json",
+					"name" : "inventoryManagementSystem",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Git/inventoryManagementSystemInCpp/inventoryManagementSystem/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Git/inventoryManagementSystemInCpp/inventoryManagementSystem"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

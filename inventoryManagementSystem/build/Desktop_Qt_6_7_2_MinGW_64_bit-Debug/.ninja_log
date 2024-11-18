@@ -1,0 +1,6 @@
+# ninja log v6
+7	402	7536691945337675	CMakeFiles/inventoryManagementSystem.dir/tool.cpp.obj	6da67a0cae7f9663
+5	419	7536691945318359	CMakeFiles/inventoryManagementSystem.dir/item.cpp.obj	b335b636bbd062e6
+2	557	7536691945288735	CMakeFiles/inventoryManagementSystem.dir/main.cpp.obj	6739f6b49902a075
+4	576	7536691945308274	CMakeFiles/inventoryManagementSystem.dir/workshop.cpp.obj	9f53797cf0e7c40d
+576	702	7536691951040791	inventoryManagementSystem.exe	aac3c2d263c4f9d2
